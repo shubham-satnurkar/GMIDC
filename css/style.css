@@ -1,0 +1,33 @@
+.container{max-width: 1200px;}
+/*Header and Banner Section Start*/
+.header{
+	/*background:  url(../img/hero.png)*/
+
+	/*background-size: 100%;*/
+	/*transform: rotate(-4deg);*/
+	/*overflow: hidden;position: relative;*/
+	/*height: 500px;*/
+}
+.navbar-brand{
+	width: 30%;
+}
+.navbar-top{align-items: center;}
+.nav-item{margin-left: 10px;}
+.nav-link{
+	padding: 5px 10px;
+	color: #000;
+}
+
+
+/*.hero-img{
+	width: 120%;
+	-webkit-transform: rotate(-4deg);
+	   -moz-transform: rotate(-4deg);
+	    -ms-transform: rotate(-4deg);
+	     -o-transform: rotate(-4deg);
+	        transform: rotate(-4deg);
+	 margin: 0px 0 0 -20px;
+}*/
+/*.navbar{position: absolute;top: 0;left: ;}*/
+
+/*Header and Banner Section End*/
